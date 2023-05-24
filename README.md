@@ -74,3 +74,29 @@ print ("MSE    :",mean_squared_error(y_test,target_predict))
 print ("R2     :",r2_score(y_test,target_predict))
 ```
 # OUPUT
+![Screenshot 2023-05-24 083753](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/fa8b3b5c-e399-4aa8-a028-97db7a0dd059)
+![Screenshot 2023-05-24 083800](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/6453fe27-7375-4602-9a5e-3f8ef0b15a26)
+![Screenshot 2023-05-24 083820](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/5987d9a0-8798-41eb-bb58-3b5043575c18)
+![Screenshot 2023-05-24 083833](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/c475aa54-0081-4e36-bcf7-85580f11cef4)
+![Screenshot 2023-05-24 083844](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/8ef6bed3-ff53-46ad-b278-a5f86b191281)
+![Screenshot 2023-05-24 083923](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/26457838-69ed-41c4-8048-13a0bc7d934c)
+![Screenshot 2023-05-24 083943](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/0c1e225a-6a01-4640-ae55-a36b587fb91c)
+![Screenshot 2023-05-24 083951](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/2a280694-75f2-409f-9bad-eba70c8516b7)
+![Screenshot 2023-05-24 084010](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/79febd2c-f8bf-4762-ad54-e62f88939589)
+![Screenshot 2023-05-24 084037](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/10f21b2a-63de-46a7-8b19-3ebfccde9ac7)
+![Screenshot 2023-05-24 084047](https://github.com/BaskaranV15/Ex-07-Feature-Selection/assets/118703522/6ba4190a-f839-4a0e-9405-7c6938dec6f5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
